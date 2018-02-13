@@ -1,0 +1,6 @@
+﻿{
+  "From": "admin@contosouniversity.edu",
+  "To": "#UserEmail#;pqr@abc.com;qa@fd.com",
+  "Subject": "Welcome to Contoso University",
+  "Body": "Dear #FirstName#,\n Welcome to Contoso University. Here is your login credentials: \n username: #UserName# \n password: #Password# (one time use only)\n Thanks, \nAdministrator"
+}
